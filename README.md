@@ -1,4 +1,5 @@
 # ETH-
+出售程序源代码 邮箱www12345jack@gmail.com
 ETH鱼池 E池转发抽水工具 抽水版，作者抽取了2%，可以同时布置鱼池和E池的转发，客户端数量不受限制
 抽水时间=抽水基础时间乘抽水比例  正常运行时间=抽水基础时间乘（1-抽水比例） 抽水基础时间单位为小时
 ![1c8778fd8c0000c9e4e9907db6e2e2e](https://user-images.githubusercontent.com/95891876/148224121-6b64f24c-fbc4-45c6-9c46-046c4133aefa.png)
