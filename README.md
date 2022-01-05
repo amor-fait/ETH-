@@ -1,7 +1,8 @@
 # ETH-
-ETH鱼池 E池转发抽水工具，无后门，可以Wireshark抓包自测，出售Python源代码
-程序更新到V2
-![image](https://user-images.githubusercontent.com/95891876/146947154-7b8d90a7-da57-498a-a60b-c28fc60bec74.png)
+ETH鱼池 E池转发抽水工具 抽水版，作者抽取了2%，可以同时布置鱼池和E池的转发，客户端数量不受限制
+抽水时间=抽水基础时间*抽水比例  正常运行时间=抽水基础时间*（1-抽水比例） 抽水基础时间单位为小时
+![1c8778fd8c0000c9e4e9907db6e2e2e](https://user-images.githubusercontent.com/95891876/148224121-6b64f24c-fbc4-45c6-9c46-046c4133aefa.png)
 
-抽水基础时间为多长时间抽水一次
+
+
 
