@@ -13,3 +13,5 @@ ETH鱼池 E池转发抽水工具 无抽水版，可以单独布置一个矿池�
 ![image](https://user-images.githubusercontent.com/95891876/148226179-09cedeff-ba4a-4623-b30a-9ad860ba9505.png)
 
 
+新版本，可以拦截修改地址类型的抽水
+![image](https://user-images.githubusercontent.com/95891876/148669190-e97b8429-39d1-41ab-ba88-ba78f32777bf.png)
